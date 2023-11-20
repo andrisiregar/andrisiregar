@@ -1,16 +1,15 @@
-### Hi there 👋
+### Andri Armaginda Siregar
+🚀 A Computer Science student at Nahdlatul Ulama University of North Sumatra, diving deep into the realms of web development, natural language processing (NLP), and data science. I thrive on unraveling complex problems and sculpting elegant solutions through code.
 
-<!--
-**andrisiregar/andrisiregar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Expertise & Skills:
+- 💻 Web Development
+- 🧠 Natural Language Processing (NLP)
+- 📊 Data Science
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact:
+- 📧 Email: andriarmagindasiregar@email.com
+- LinkedIn: [Andri Armaginda Siregar](https://id.linkedin.com/in/andri-armaginda-siregar-957914263) 
+
+### Let's Collaborate! 💡
+Bringing innovation to life, one line of code at a time. Open to collaboration and ready to contribute!
