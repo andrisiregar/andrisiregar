@@ -1,5 +1,5 @@
 ### Andri Armaginda Siregar
-🚀 A Computer Science student at Nahdlatul Ulama University of North Sumatra, currently excelling in the dynamic field of healthcare administration. I specialize in leveraging my technical background to contribute to the efficient management of healthcare services at Klinik Pratama Haji Medan Pancing.
+🚀 A Computer Science student at Nahdlatul Ulama University of North Sumatra, currently excelling as a healthcare administrator at Klinik Pratama Haji Medan Pancing. Passionate about the intersection of technology and healthcare, I manage the administrative aspects of the clinic while delving deep into the realms of web development, natural language processing (NLP), and data science.
 
 ### Professional Focus:
 🏥 Healthcare Administration: Proven expertise in optimizing administrative processes within the healthcare sector, with a specific focus on Klinik Pratama Haji Medan Pancing.
